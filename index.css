@@ -1,0 +1,45 @@
+body{
+    font-size: 1.6rem;
+    margin: 0 auto;
+    width: 70vw;
+    background-color: rgb(226, 217, 217);
+    text-align: center;
+}
+p{
+    font-family: Noto Sans JP, sans-serif;
+    text-align: justify;
+    font-size: medium;
+    font-style: oblique;
+    color: black;
+    padding: 0px 240px;
+}
+h1{
+    font-family: Noto Sans JP, sans-serif;
+    font-size: 2rem;
+    color: black;
+}
+.subtitle{
+    font-family: Noto Sans JP, sans-serif;
+    text-align: center;
+    font-size: medium;
+    font-weight: bold;
+    font-style: oblique;
+    color: black;
+}
+h2{
+    font-family: Noto Sans JP, sans-serif;
+    font-size: medium;
+    text-align: center;
+    font-style: oblique;
+    color: black;
+}
+h3{
+    font-family: Noto Sans JP, sans-serif;
+    text-align: justify;
+    font-size: medium;
+    font-style: oblique;
+    padding: 0px 240px;
+}
+section{
+    text-align: left;
+}
